@@ -1,0 +1,13 @@
+tipo:CORRIENTE:12900:15.0
+tipo:ACPM:11200:45.0
+tipo:DIESEL:13100:13.0
+tipo:EXTRA:9800:12.0
+surtidor:Nicolas Hernandez:CORRIENTE:0.0:ACPM:0.0:DIESEL:0.0:EXTRA:0.0
+surtidor:Juan Roncancio:CORRIENTE:0.0:ACPM:0.0:DIESEL:0.0:EXTRA:0.0
+surtidor:Juan Roncancio:CORRIENTE:0.0:ACPM:0.0:DIESEL:0.0:EXTRA:0.0
+surtidor:Samuel Carrillo:CORRIENTE:0.0:ACPM:0.0:DIESEL:0.0:EXTRA:0.0
+empleado:Samuel Escobar:0
+empleado:Samuel Carrillo:0
+empleado:Juan Roncancio:0
+empleado:Felipe Boada:0
+empleado:Nicolas Hernandez:0
